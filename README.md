@@ -1,0 +1,1 @@
+# losowe-s-owa-generator
